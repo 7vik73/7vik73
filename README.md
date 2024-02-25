@@ -46,7 +46,7 @@ Have Dreams of becoming the next CyberSpace Captain 🚀
 - 🔐 **Dabbling in Networking**: Exploring the mysteries of networks, one packet at a time.
 
 #### Current Status:
-```bash
+```python
 $ cat status.txt
 
 Learning Python        ███░░░░░░░░░ 30%
