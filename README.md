@@ -38,14 +38,14 @@ Dreaming in 0's and 1's 🌌
 
 Drink binary coffee ☕
 Have Dreams of becoming the next CyberSpace Captain 🚀
-### What I'm Learning
+#### What I'm Learning:
 - 🐍 **Python Enchantments**: Mastering the art of Python programming, from basics to magical scripts.
 - 🌐 **Web Wizardry with HTML/CSS**: Crafting pixel-perfect designs and stylish web pages.
 - 🎨 **JavaScript Sorcery**: Conjuring interactive and dynamic web experiences with JavaScript spells.
 - 💻 **Bash Scripting Adventures**: Automating tasks and dancing with the command line.
 - 🔐 **Dabbling in Networking**: Exploring the mysteries of networks, one packet at a time.
 
-### Current Status
+#### Current Status:
 ```bash
 $ cat status.txt
 
@@ -55,7 +55,7 @@ JavaScript Spells      █░░░░░░░░░░░ 10%
 Bash Scripts Creation   ████░░░░░░░░ 40%
 Networking Adventures  █░░░░░░░░░░░░ 10%
 
-Balancing Act
+####Balancing Act:
 
 Life as a student-hacker is all about balance:
 
