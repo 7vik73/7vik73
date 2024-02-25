@@ -28,8 +28,7 @@ def introduce():
                 of learning and the adrenaline of hacking, I'm on a quest to unravel the mysteries of coding and
                 cybersecurity—all while keeping pace with my coursework.Join me as I take my first steps into
                 this digital realm, eager to learn and explore.
-
-return f"Hi there! I'm {7vk}, a {18}-year-old on a mission to conquer the digital universe with my keyboard!"
+    return f"Hi there! I'm {7vk}, a {18}-year-old on a mission to conquer the digital universe with my keyboard!"
 
 $ sudo cat status.txt
 Learning the art of hacking 🎨
