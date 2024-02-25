@@ -52,7 +52,7 @@ $ cat status.txt
 Learning Python        ███░░░░░░░░░ 30%
 HTML/CSS Projects      ██░░░░░░░░░░ 20%
 JavaScript Spells      █░░░░░░░░░░░ 10%
-Bash Scripts Created   ████░░░░░░░░ 40%
+Bash Scripts Creation   ████░░░░░░░░ 40%
 Networking Adventures  █░░░░░░░░░░░░ 10%
 
 Balancing Act
