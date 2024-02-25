@@ -23,7 +23,11 @@ def introduce():
     age = 18
     passion = "Hacking into the Mainframe 🚀"
     goal = "Master of the Cyber Realm"
-    description=Hey there! I'm CyberSprintKid, a university student navigating the complexities of academia while diving headfirst into the thrilling world of cyber exploits. Embracing the wonders of learning and the adrenaline of hacking, I'm on a quest to unravel the mysteries of coding and cybersecurity—all while keeping pace with my coursework.Join me as I take my first steps into this digital realm, eager to learn and explore.
+    description=Hey there! I'm CyberSprintKid, a university student navigating the complexities of academia
+                while diving headfirst into the thrilling world of cyber exploits. Embracing the wonders
+                of learning and the adrenaline of hacking, I'm on a quest to unravel the mysteries of coding and
+                cybersecurity—all while keeping pace with my coursework.Join me as I take my first steps into
+                this digital realm, eager to learn and explore.
 
 return f"Hi there! I'm {7vk}, a {18}-year-old on a mission to conquer the digital universe with my keyboard!"
 
